@@ -1,1 +1,1 @@
-# P101_SOLID_SQL-Intro
+# P101 SQL Intro
